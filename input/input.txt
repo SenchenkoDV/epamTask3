@@ -1,0 +1,5 @@
+Hookahs: 2
+Maximum number of people in the hookah: 10
+Number of single customers: 4
+Number of groups: 5
+Number of people in a group: 2
